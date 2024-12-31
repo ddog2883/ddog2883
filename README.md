@@ -2,7 +2,7 @@
 
 Hi my name is Dima, I am 13 and i want to learn how to code.
 
-- [ ] create github profile
+- [x] create github profile
 - [ ] create profile repository
 - [ ] create frist pyhton application
 - [ ] create docker hub profile

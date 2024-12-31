@@ -3,9 +3,9 @@
 Hi my name is Dima, I am 13 and i want to learn how to code.
 
 - [x] create github profile
-- [ ] create profile repository
-- [ ] install vs code
-- [ ] link vs code to github
+- [x] create profile repository
+- [x] install vs code
+- [x] link vs code to github
 - [ ] create frist pyhton application
 - [ ] create docker hub profile
 - [ ] push frist pyhton application to docker hub 

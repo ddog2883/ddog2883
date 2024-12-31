@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi my name is Dima, I am 13 and i want to learn how to code.
+
+- [ ] create github profile
+- [ ] create profile repository
+- [ ] create frist pyhton application
+- [ ] create docker hub profile
+- [ ] push frist pyhton application to docker hub 
+
 <!--
 **ddog2883/ddog2883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
